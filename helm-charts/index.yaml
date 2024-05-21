@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  fluent-bit:
+    - created: 2024-05-21T17:00:00.000000000+00:00
+      description: Deploy fluent-bit to your cluster
+      digest: f4c553a49714eb009aa2689903bfe2a60ac71a9814184492054a2b739af38349
+      home: https://github.com/mark-jordanovic-lewis/fluent-helm-charts
+      name: fluent-bit
+      sources: 
+        - https://github.com/mark-jordanovic-lewis/fluent-helm-charts/
+      urls:
+        - https://github.com/mark-jordanovic-lewis/mark-jordanovic-lewis.github.io/charts/fluent-bit.tgz
+      version: 0.46.7 
